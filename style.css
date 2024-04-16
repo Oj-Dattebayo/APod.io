@@ -46,7 +46,7 @@ body {
   object-fit: cover;
   z-index: -1;
 }
-.text-center {
+.ab {
   text-align: center;
   backdrop-filter: blur(5px);
   margin-left: 200px;
